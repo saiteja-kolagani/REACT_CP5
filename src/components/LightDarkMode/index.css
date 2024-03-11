@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-container-dark {
+  background-color: #000000;
+  padding: 30px;
+  text-align: center;
+  border-radius: 5px;
+}
+.content-container-light {
+  background-color: #ffffff;
+  padding: 30px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+.heading-light {
+  color: #000000;
+  font-size: 24px;
+}
+.heading-dark {
+  color: #ffffff;
+  font-size: 24px;
+}
+.button {
+  padding: 8px;
+  font-size: 12px;
+}
